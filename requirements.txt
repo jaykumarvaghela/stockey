@@ -2,3 +2,6 @@ streamlit>=1.32.0
 yfinance>=0.2.36
 plotly>=5.20.0
 pandas>=2.0.0
+
+
+https://urldefense.com/v3/__https://claude.ai/join*j1xdbAxhp9pdkEKZz7VjQ3n5dbZ-zfKuQ1jCswIlr2y-BnumeTc2ZnIixd9yb8DZBjzLCLl9XC-rxK1RCpH5lw__;Iw!!N8Xdb1VRTUMlZeI!mseu864SkT8Q3JFuYViQvK7qXWJaPfQGSZi9p5eOyhFZ0vQTEIoFXri3UI7qYmHR51c_VfEHZh0ukbGf9pxm_4yzHFKKEu92tA$
